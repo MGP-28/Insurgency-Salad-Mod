@@ -6,4 +6,4 @@ This is a dump of all the contents of https://insurgencysandstorm.mod.io/interna
 
 This isn't currently working; It's meant for anyone to see how I implemented some features into the game and use as a base for their work
 
-Feel free to use any assets from this repository into your own projects. You can give credit, if you think it's appropriate
+Feel free to use any assets from this repository into your own projects. You may give credit, if you think it's appropriate, but it's not required
